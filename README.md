@@ -108,7 +108,6 @@ sudo apt install mingw-w64
 
 ```bash
 make all        # both x64 and x86
-make clean
 ```
 
 Output `.o` files go to `_bin/`.

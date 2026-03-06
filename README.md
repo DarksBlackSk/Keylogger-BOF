@@ -119,7 +119,7 @@ Output `.o` files go to `_bin/`.
 
 1. Clone the repo and compile:
 ```bash
-git clone https://github.com/<you>/Keylogger-BOF
+git clone https://github.com/DarksBlackSk/Keylogger-BOF.git
 cd Keylogger-BOF
 make all
 ```

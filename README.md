@@ -114,7 +114,7 @@ Output `.o` files go to `_bin/`.
 
 ---
 
-## Installation (AdaptixC2)
+## Installation (AdaptixC2 ≥ 1.2)
 
 1. Clone the repo and compile:
 ```bash
